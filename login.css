@@ -1,0 +1,33 @@
+h6{
+    color: red;
+}
+#HeaderSection{
+    background-color: #0a0a0a;
+}
+#navbarSupportedContent ul li a{
+    color: white;
+    font-weight: 500;
+    font-size: 16px;
+    margin-left: 10px;
+}
+navbarSupportedContent ul li a:hover{
+    color: red;
+}
+body{
+    background-image: url(./images/login-banner.webp);
+    background-repeat: no-repeat;
+    background-size: 100% 750px;
+}
+#form{
+    background-color: transparent;
+    border: 1px solid white;
+}
+#form div input{
+    background-color: transparent;
+}
+#form div label{
+    color: white;
+}
+#form div input::placeholder{
+    color: white;
+}
